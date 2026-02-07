@@ -8,3 +8,7 @@ out/
 
 # OS files
 .DS_Store
+
+# IntelliJ IDEA files
+*.iml
+.idea/
